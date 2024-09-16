@@ -12,3 +12,4 @@ how to use:
 5.open another cmd,do step 3 again,then type python pewpew.py
 6.open valorant,change enemy outline to purple(you can edit the color in pewpew.py if you want the trigger bot to detect others color)and press f10(you will heard a beep sound when triggerbot activate)
 7.if you want to config the triggerbot,go to config.json and after edit you will need to rerun all the python to see the changes.
+*if you cant run it make sure you downloaded the python library required using pip install in cmd
