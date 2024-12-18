@@ -5,4 +5,4 @@ how it works:
 4.Result in Game: The game registers the key press and fires the weapon.
 5.if you rage it = ban,this program basically undetectable for a short period because its my remake of the public triggerbot,so its same mechanisms and different code.
 
-# bad people are smart,good people are smart too, they know how to break the obstacles, so are you the normal people?
+# i hate valorant, and i cheat in this game, my main account still not banned.
